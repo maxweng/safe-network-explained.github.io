@@ -14,8 +14,8 @@ categories: bitcoin
 ## 目录
 <ul>
 <li><a id="blockchain_toc" href="#区块链" rel="nofollow">区块链</a></li>
-<li><a id="proof-of-work-for-verification_toc" href="#proof-of-work-for-verification" rel="nofollow">工作量证明验证</a></li>
-<li><a id="双重花费问题预防" href="#双重花费问题预防" rel="nofollow">双重花费问题预防</a></li>
+<li><a id="proof-of-work-for-verification_toc" href="#工作量证明验证" rel="nofollow">工作量证明验证</a></li>
+<li><a id="double-spend-prevention_toc" href="#双重花费问题预防" rel="nofollow">双重花费问题预防</a></li>
 </ul>
 
 ### 区块链
