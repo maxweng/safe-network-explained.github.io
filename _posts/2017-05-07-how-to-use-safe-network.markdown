@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "安联网使用入门"
+title:  "安联网简单入门"
 date:   2017-05-07 00:00:00 +0000
+updated:   2017-05-07 00:00:00 +0000
 categories: safe network, maidsafe
 ---
 # 下载安联网浏览器
